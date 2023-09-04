@@ -1,0 +1,14 @@
+body
+{
+background-size: cover;
+}
+
+.heading h3{
+display: inline;
+width: 100%;
+}
+.instructions{
+    float: right;
+    border: 1px solid white;
+    background-color: orange;
+}
